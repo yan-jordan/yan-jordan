@@ -67,9 +67,7 @@
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:Pyn.mehdibeik@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+- 📧 Email: Pyn.mehdibeik@gmail.com  
 
 ---
 
