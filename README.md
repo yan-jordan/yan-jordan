@@ -1,4 +1,9 @@
 ## Hi there 👋 I'm POUYAN
+I am Frontend Developer
+
+#Tech-Stacks:
+<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/a6285bb4-a82b-4701-b3fa-8938de8f4432" />
+
 
 <!--
 **yan-jordan/yan-jordan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
