@@ -29,7 +29,7 @@
 > NumPy • Pandas • Matplotlib (Python ecosystem)
 
 ### 🛠 Tools & Environment
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,anaconda)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,anaconda,docker)
 
 ---
 
