@@ -1,30 +1,32 @@
 # 👋 Hi, I'm Pouyan MehdiBeik
 
 🎓 Computer Science Student at Amirkabir University of Technology (Tehran Polytechnic)  
-💻 Frontend Developer | Future AI Engineer  
-📊 Exploring Data Science & Machine Learning  
+💻 Frontend Developer | Aspiring AI Engineer  
+📊 Passionate about building modern web apps and exploring data-driven systems  
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 I’m currently working on **FullStack Development (Next.js)**
-- 🤖 Learning **AI Engineering & Data Science**
-- 🎯 Focused on building clean, scalable web applications
-- 📈 Interested in Python for AI, ML & data analysis
+- 🔭 Currently focused on **Full-Stack development with Next.js**
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 🎯 Passionate about building scalable, clean, and user-focused applications
+- 📊 Interested in Python ecosystem for data science and AI
 
 ---
 
 ## ⚙️ Tech Stack
 
-### 💻 Frontend
+### 💻 Frontend Development
 ![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs)
 
-### 🧠 Programming & AI
-![AI](https://skillicons.dev/icons?i=python,js,ts,c,cpp,java)
+### 🧠 Programming Languages
+![Languages](https://skillicons.dev/icons?i=python,java,c,cpp,js,ts)
 
-### 📊 Data Science Tools
-![Data](https://skillicons.dev/icons?i=numpy,pandas)
+### 📊 Data Science & AI
+![AI](https://skillicons.dev/icons?i=python,anaconda)
+
+> NumPy • Pandas • Matplotlib (Python ecosystem)
 
 ### 🛠 Tools & Environment
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,anaconda)
@@ -33,29 +35,37 @@
 
 ## 🚀 Current Focus
 
-- ⚡ Building modern frontend apps with **Next.js**
-- 🤖 Learning **Machine Learning fundamentals**
-- 📊 Practicing data analysis with **Python ecosystem**
-- 🧩 Improving problem-solving & system design
+- ⚡ Building production-ready apps with **Next.js**
+- 🤖 Strengthening fundamentals in **Machine Learning & AI**
+- 📊 Improving data analysis skills with Python
+- 🧩 Practicing system design and clean architecture thinking
 
 ---
 
 ## 📌 Featured Projects
 
-- 📝 **Weekly Planner (Next.js + Prisma + MySQL)** – Full-stack To-Do app 
-- 🛒 **Online Shop (Java)** – Fruit selling system  
-- 🍔 **Food Delivery UI (React)** – Responsive frontend design  
-- 🧮 **Web Calculator (JS)** – Functional calculator app  
-- 💼 **Portfolio Website (React)** – Personal developer portfolio  
+- 📝 **Weekly Planner** — Full-stack task management app  
+  `Next.js • Prisma • MySQL`
+
+- 🛒 **Online Shop** — Java-based fruit store system  
+  `Java • OOP`
+
+- 🍔 **Food Delivery UI** — Responsive frontend interface  
+  `React`
+
+- 🧮 **Web Calculator** — Functional calculator with JS  
+  `HTML • CSS • JavaScript`
+
+- 💼 **Portfolio Website** — Personal developer portfolio  
+  `React`
 
 ---
 
 ## 🌐 Connect with Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/pouyan-mehdibeik-0831b840a/
+- 💼 LinkedIn: https://www.linkedin.com/in/pouyan-mehdibeik-0831b840a/  
 - 📧 Email: Pyn.mehdibeik@gmail.com  
 
 ---
 
-
-⭐ *Always learning, always building.*
+⭐ *Always learning, building, and improving.*
