@@ -2,7 +2,7 @@
 I am Frontend Developer
 
 #Tech-Stacks:
-<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/a6285bb4-a82b-4701-b3fa-8938de8f4432" />
+
 
 
 <!--
