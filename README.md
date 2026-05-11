@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-- 🔭 I’m currently working on **Frontend Development (React / Next.js)**
+- 🔭 I’m currently working on **FullStack Development (Next.js)**
 - 🤖 Learning **AI Engineering & Data Science**
 - 🎯 Focused on building clean, scalable web applications
 - 📈 Interested in Python for AI, ML & data analysis
@@ -42,25 +42,20 @@
 
 ## 📌 Featured Projects
 
+- 📝 **Weekly Planner (Next.js + Prisma + MySQL)** – Full-stack To-Do app 
 - 🛒 **Online Shop (Java)** – Fruit selling system  
 - 🍔 **Food Delivery UI (React)** – Responsive frontend design  
 - 🧮 **Web Calculator (JS)** – Functional calculator app  
 - 💼 **Portfolio Website (React)** – Personal developer portfolio  
-- 📝 **Weekly Planner (Next.js + Prisma + MySQL)** – Full-stack To-Do app  
 
 ---
 
 ## 🌐 Connect with Me
 
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com)  
-- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/pouyan-mehdibeik-0831b840a/
+- 📧 Email: Pyn.mehdibeik@gmail.com  
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yan-jordan&show_icons=true&theme=default)
-
----
 
 ⭐ *Always learning, always building.*
