@@ -63,8 +63,13 @@
 
 ## 🌐 Connect with Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/pouyan-mehdibeik-0831b840a/  
-- 📧 Email: Pyn.mehdibeik@gmail.com  
+<a href="https://www.linkedin.com/in/pouyan-mehdibeik-0831b840a/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:Pyn.mehdibeik@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
 ---
 
