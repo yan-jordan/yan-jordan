@@ -21,7 +21,7 @@
 ![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs)
 
 ### 🧠 Programming & AI
-![AI](https://skillicons.dev/icons?i=python,js,ts,c,c++,java)
+![AI](https://skillicons.dev/icons?i=python,js,ts,c,cpp,java)
 
 ### 📊 Data Science Tools
 ![Data](https://skillicons.dev/icons?i=numpy,pandas)
