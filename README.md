@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Pouyan MehdiBeik
 
 🎓 Computer Science Student at Amirkabir University of Technology (Tehran Polytechnic)  
-💻 Frontend Developer | Aspiring AI Engineer  
+💻 Junior Frontend Developer | Aspiring AI Engineer  
 📊 Passionate about building modern web apps and exploring data-driven systems  
 
 ---
