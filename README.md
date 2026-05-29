@@ -24,7 +24,7 @@
 ![Languages](https://skillicons.dev/icons?i=python,java,c,cpp,js,ts)
 
 ### 📊 Data Science & AI
-![AI](https://skillicons.dev/icons?i=python,anaconda)
+![AI](https://skillicons.dev/icons?i=python,anaconda,langchain,chromadb)
 
 > NumPy • Pandas • Matplotlib (Python ecosystem)
 
