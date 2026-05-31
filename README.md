@@ -53,24 +53,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-- 📝 **Weekly Planner** — Full-stack task management app  
-  `Next.js • Prisma • MySQL`
-
-- 🛒 **Online Shop** — Java-based fruit store system  
-  `Java • OOP`
-
-- 🍔 **Food Delivery UI** — Responsive frontend interface  
-  `React`
-
-- 🧮 **Web Calculator** — Functional calculator with JS  
-  `HTML • CSS • JavaScript`
-
-- 💼 **Portfolio Website** — Personal developer portfolio  
-  `React`
-
----
 
 ## 🌐 Connect with Me
 
