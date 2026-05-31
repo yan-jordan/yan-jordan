@@ -17,20 +17,31 @@
 
 ## ⚙️ Tech Stack
 
-### 💻 Frontend Development
+### 🌐 Frontend
 ![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs)
 
-### 🧠 Programming Languages
+### ⚡ Backend
+![Backend](https://skillicons.dev/icons?i=django,python)
+
+### 🤖 AI / LLM
+- LangChain
+- RAG (Retrieval-Augmented Generation)
+- Prompt Engineering
+- Vector Databases
+
+### 🗄️ Database & Storage
+![Database](https://skillicons.dev/icons?i=sqlite)
+
+- SQLite
+- ChromaDB
+- FAISS
+- MySql
+
+### 💻 Languages
 ![Languages](https://skillicons.dev/icons?i=python,java,c,cpp,js,ts)
 
-### 📊 Data Science & AI
-![AI](https://skillicons.dev/icons?i=python,anaconda,langchain,chromadb)
-
-> NumPy • Pandas • Matplotlib (Python ecosystem)
-
-### 🛠 Tools & Environment
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,anaconda,docker)
-
+### 🛠 Tools
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker,anaconda)
 ---
 
 ## 🚀 Current Focus
