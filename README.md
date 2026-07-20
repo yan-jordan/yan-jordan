@@ -11,7 +11,6 @@
 - 📚 Completing a **Generative AI engineering bootcamp**
 - 🎯 Focused on **RAG systems, AI agents, and LLM-powered applications** — building real, evaluated, deployable systems rather than notebook demos
 - 🛠️ Bringing a software-engineering mindset (testing, clean architecture, version control) into ML work, rather than treating models as one-off scripts
-- 💬 Ask me about RAG pipelines, agent architectures, or how I'm structuring my self-study into ML engineering
 
 ---
 
