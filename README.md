@@ -1,17 +1,19 @@
-# 👋 Hi There, I'm Pouyan 
+# 👋 Hi, I'm Pouyan Mehdibeik
 
-🎓 Computer Science Student at Amirkabir University of Technology (Tehran Polytechnic)  
-💻 Junior Frontend Developer | Aspiring AI Engineer  
-📊 Passionate about building modern web apps and exploring data-driven systems  
+**Computer Science Student @ Amirkabir University of Technology (Tehran Polytechnic)**
+**Frontend Developer → transitioning into AI/ML Engineering**
+
+I build production web applications with Next.js, and I'm now applying that same engineering discipline — testing, architecture, clean interfaces — to machine learning and LLM systems. My angle is simple: most ML people can't ship a real product, and most frontend people can't touch a model. I'm building toward being able to do both.
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 Currently focused on **Full-Stack development with Next.js**
-- 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 🎯 Passionate about building scalable, clean, and user-focused applications
-- 📊 Interested in Python ecosystem for data science and AI
+- 🔭 Currently building full-stack apps with **Next.js**, and completing a **Generative AI engineering bootcamp**
+- 📚 Working through a structured, self-directed roadmap covering Python, SQL, ML math, classical ML, deep learning, NLP, LLM engineering (RAG, fine-tuning, evaluation), agentic systems, and MLOps
+- 🎯 Interested in **RAG systems, AI agents, and LLM-powered products** — with a specific focus on shipping the full stack (model + backend + real UI), not just a notebook
+- 🌱 Long-term goal: AI/ML Engineer role, followed by a Master's in Melbourne (La Trobe / RMIT)
+- 💬 Ask me about React/Next.js architecture, or about how I'm structuring my self-study into ML engineering
 
 ---
 
@@ -21,38 +23,47 @@
 ![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs)
 
 ### ⚡ Backend
-![Backend](https://skillicons.dev/icons?i=django,python)
+![Backend](https://skillicons.dev/icons?i=django,fastapi,python,nodejs)
 
-### 🤖 AI / LLM
-- LangChain
-- RAG (Retrieval-Augmented Generation)
-- Prompt Engineering
-- Vector Databases
+### 🤖 AI / ML / LLM
+![AI](https://skillicons.dev/icons?i=pytorch,tensorflow)
+- LangChain / LangGraph
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering & Evaluation
+- Vector Databases & Hybrid Search
+- Fine-tuning (LoRA/QLoRA)
 
-### 🗄️ Database & Storage
-![Database](https://skillicons.dev/icons?i=sqlite)
-
-- SQLite
-- ChromaDB
-- FAISS
-- MySql
+### 🗄️ Data & Databases
+![Database](https://skillicons.dev/icons?i=postgres,mysql,sqlite)
+- SQL (PostgreSQL, MySQL, SQLite)
+- ChromaDB · FAISS
 
 ### 💻 Languages
 ![Languages](https://skillicons.dev/icons?i=python,java,c,cpp,js,ts)
 
-### 🛠 Tools
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker,anaconda)
----
-
-## 🚀 Current Focus
-
-- ⚡ Building production-ready apps with **Next.js**
-- 🤖 Strengthening fundamentals in **Machine Learning & AI**
-- 📊 Improving data analysis skills with Python
-- 🧩 Practicing system design and clean architecture thinking
+### 🛠️ Tools & Infra
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker,anaconda,linux)
 
 ---
 
+## 🚀 Currently Learning
+
+| Area | Focus |
+|---|---|
+| **Full-stack** | Production-grade Next.js apps, clean architecture |
+| **ML Foundations** | Python for ML, SQL, linear algebra & statistics from first principles |
+| **AI Engineering** | RAG pipelines, evaluation harnesses, agentic systems, MLOps basics |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+</p>
+
+---
 
 ## 🌐 Connect with Me
 
@@ -60,8 +71,8 @@
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-- 📧 Email: Pyn.mehdibeik@gmail.com  
+📧 **Email:** pyn.mehdibeik@gmail.com
 
 ---
 
-⭐ *Always learning, building, and improving.*
+⭐ *Currently learning, building, and shipping — one commit at a time.*
